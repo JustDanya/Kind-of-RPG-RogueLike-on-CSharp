@@ -1,0 +1,7 @@
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\bin\Debug\Gamsa.exe.config
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\bin\Debug\Gamsa.exe
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\bin\Debug\Gamsa.pdb
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\obj\Debug\Gamsa.csprojAssemblyReference.cache
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\obj\Debug\Gamsa.csproj.CoreCompileInputs.cache
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\obj\Debug\Gamsa.exe
+D:\PForceWorkspace\WallRun\Gamsa\Gamsa\obj\Debug\Gamsa.pdb
